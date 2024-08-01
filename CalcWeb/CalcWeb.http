@@ -1,0 +1,6 @@
+@CalcWeb_HostAddress = http://localhost:5080
+
+GET {{CalcWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
